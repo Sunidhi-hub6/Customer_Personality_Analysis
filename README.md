@@ -30,7 +30,6 @@ Steps Performed:
 
 Output Files Included:
 - Original dataset
-- Cleaned dataset
 - Python cleaning script
 
 Result:
