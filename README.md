@@ -1,6 +1,6 @@
 # Customer_Personality_Analysis
-Task 1: Data Cleaning and Preprocessing
-Customer Personality Analysis – Data Cleaning & Preprocessing
+Task 1: Data Cleaning and Preprocessing - 
+Customer Personality Analysis
 
 Objective:
 The objective of this task is to clean and preprocess a raw dataset containing missing values, duplicate records, inconsistent formats, and incorrect data types using Python (Pandas).
@@ -24,8 +24,8 @@ Steps Performed:
 8. Corrected datatype of year_birth
 9. Created new feature age
 10. Standardized categorical text columns:
-- education
-- marital_status
+- Education
+- Marital_status
 11. Exported cleaned dataset
 
 Output Files Included:
